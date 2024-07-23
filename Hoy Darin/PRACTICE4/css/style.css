@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+.card{
+    background: white;
+    border-radius: 7px;
+    padding: 10px;
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+.button{
+    border:none;
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+}
+.button#btn-teal{
+    background: teal;
+}
+.button#btn-orange{
+    background: orange;
+}
+.button#btn-purple{
+    background: purple;
+}
+
+
+
