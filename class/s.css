@@ -1,0 +1,21 @@
+.product{
+    justify-content: center;
+    display: flex;
+    background-color: pink;
+    padding: 10px;
+}
+.product2{
+    padding: 10px;
+    background-color: rgb(160, 140, 144);
+    justify-content: center;
+    display: flex;
+}
+.social-medai{
+    background-color:lightblue;
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+}
+p.hi{
+    color: bisque;
+}
